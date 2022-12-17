@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-//stless
+// To Create a Class---> Type stless-->Tab
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
