@@ -4,7 +4,7 @@ import 'package:first_app/home_screen.dart';
 import 'package:first_app/profile_screen.dart';
 import 'package:flutter/material.dart';
 
-class DashScreen extends StatefulWidget {
+class DashScreen extends StatefulWidget { //When Error Occured --> alt+Enter
   // alt+Enter --> import material Import
   const DashScreen({Key? key}) : super(key: key);
 
